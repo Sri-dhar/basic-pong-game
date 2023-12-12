@@ -1,6 +1,6 @@
 # Basic Pong Game
 
-This is a simple implementation of the classic Pong game using Python. The game is developed as part of the Day 22 project in my coding journey.
+This is a simple implementation of the classic Pong game using Python. 
 
 ## Game Overview
 
